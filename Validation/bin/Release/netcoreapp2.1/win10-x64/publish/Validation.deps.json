@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1/win10-x64",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {},
+    ".NETCoreApp,Version=v2.1/win10-x64": {
+      "Validation/1.0.0": {
+        "dependencies": {
+          "CronExpressionParser": "1.0.0",
+          "ProjectConstants": "1.0.0"
+        },
+        "runtime": {
+          "Validation.dll": {}
+        }
+      },
+      "CronExpressionParser/1.0.0": {
+        "dependencies": {
+          "ProjectConstants": "1.0.0"
+        },
+        "runtime": {
+          "CronExpressionParser.dll": {}
+        }
+      },
+      "ProjectConstants/1.0.0": {
+        "runtime": {
+          "ProjectConstants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CronExpressionParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectConstants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

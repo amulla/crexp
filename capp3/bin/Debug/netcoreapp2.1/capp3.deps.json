@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "capp3/1.0.0": {
+        "dependencies": {
+          "CronExpressionParser": "1.0.0",
+          "Presentation": "1.0.0",
+          "ProjectConstants": "1.0.0",
+          "Validation": "1.0.0"
+        },
+        "runtime": {
+          "capp3.dll": {}
+        }
+      },
+      "CronExpressionParser/1.0.0": {
+        "dependencies": {
+          "ProjectConstants": "1.0.0"
+        },
+        "runtime": {
+          "CronExpressionParser.dll": {}
+        }
+      },
+      "Presentation/1.0.0": {
+        "dependencies": {
+          "CronExpressionParser": "1.0.0",
+          "ProjectConstants": "1.0.0",
+          "Validation": "1.0.0"
+        },
+        "runtime": {
+          "Presentation.dll": {}
+        }
+      },
+      "ProjectConstants/1.0.0": {
+        "runtime": {
+          "ProjectConstants.dll": {}
+        }
+      },
+      "Validation/1.0.0": {
+        "dependencies": {
+          "CronExpressionParser": "1.0.0",
+          "ProjectConstants": "1.0.0"
+        },
+        "runtime": {
+          "Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capp3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CronExpressionParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectConstants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

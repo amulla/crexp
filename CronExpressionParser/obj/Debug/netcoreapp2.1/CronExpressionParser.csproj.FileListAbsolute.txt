@@ -1,0 +1,12 @@
+C:\Code\capp3\CronExpressionParser\bin\Debug\netcoreapp2.1\CronExpressionParser.deps.json
+C:\Code\capp3\CronExpressionParser\bin\Debug\netcoreapp2.1\CronExpressionParser.dll
+C:\Code\capp3\CronExpressionParser\bin\Debug\netcoreapp2.1\CronExpressionParser.pdb
+C:\Code\capp3\CronExpressionParser\obj\Debug\netcoreapp2.1\CronExpressionParser.csproj.CoreCompileInputs.cache
+C:\Code\capp3\CronExpressionParser\obj\Debug\netcoreapp2.1\CronExpressionParser.AssemblyInfoInputs.cache
+C:\Code\capp3\CronExpressionParser\obj\Debug\netcoreapp2.1\CronExpressionParser.AssemblyInfo.cs
+C:\Code\capp3\CronExpressionParser\obj\Debug\netcoreapp2.1\CronExpressionParser.dll
+C:\Code\capp3\CronExpressionParser\obj\Debug\netcoreapp2.1\CronExpressionParser.pdb
+C:\Code\capp3\CronExpressionParser\obj\Debug\netcoreapp2.1\CronExpressionParser.csprojAssemblyReference.cache
+C:\Code\capp3\CronExpressionParser\bin\Debug\netcoreapp2.1\ProjectConstants.dll
+C:\Code\capp3\CronExpressionParser\bin\Debug\netcoreapp2.1\ProjectConstants.pdb
+C:\Code\capp3\CronExpressionParser\obj\Debug\netcoreapp2.1\CronExpressionParser.csproj.CopyComplete

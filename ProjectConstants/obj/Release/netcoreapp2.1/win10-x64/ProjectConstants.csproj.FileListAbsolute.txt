@@ -1,0 +1,9 @@
+C:\Code\capp3\ProjectConstants\bin\Release\netcoreapp2.1\win10-x64\ProjectConstants.deps.json
+C:\Code\capp3\ProjectConstants\bin\Release\netcoreapp2.1\win10-x64\ProjectConstants.dll
+C:\Code\capp3\ProjectConstants\bin\Release\netcoreapp2.1\win10-x64\ProjectConstants.pdb
+C:\Code\capp3\ProjectConstants\obj\Release\netcoreapp2.1\win10-x64\ProjectConstants.csprojAssemblyReference.cache
+C:\Code\capp3\ProjectConstants\obj\Release\netcoreapp2.1\win10-x64\ProjectConstants.csproj.CoreCompileInputs.cache
+C:\Code\capp3\ProjectConstants\obj\Release\netcoreapp2.1\win10-x64\ProjectConstants.AssemblyInfoInputs.cache
+C:\Code\capp3\ProjectConstants\obj\Release\netcoreapp2.1\win10-x64\ProjectConstants.AssemblyInfo.cs
+C:\Code\capp3\ProjectConstants\obj\Release\netcoreapp2.1\win10-x64\ProjectConstants.dll
+C:\Code\capp3\ProjectConstants\obj\Release\netcoreapp2.1\win10-x64\ProjectConstants.pdb

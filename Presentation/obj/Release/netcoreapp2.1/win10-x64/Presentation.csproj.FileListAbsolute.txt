@@ -1,0 +1,16 @@
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\Presentation.deps.json
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\Presentation.dll
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\Presentation.pdb
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\CronExpressionParser.dll
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\ProjectConstants.dll
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\Validation.dll
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\CronExpressionParser.pdb
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\ProjectConstants.pdb
+C:\Code\capp3\Presentation\bin\Release\netcoreapp2.1\win10-x64\Validation.pdb
+C:\Code\capp3\Presentation\obj\Release\netcoreapp2.1\win10-x64\Presentation.csprojAssemblyReference.cache
+C:\Code\capp3\Presentation\obj\Release\netcoreapp2.1\win10-x64\Presentation.csproj.CoreCompileInputs.cache
+C:\Code\capp3\Presentation\obj\Release\netcoreapp2.1\win10-x64\Presentation.AssemblyInfoInputs.cache
+C:\Code\capp3\Presentation\obj\Release\netcoreapp2.1\win10-x64\Presentation.AssemblyInfo.cs
+C:\Code\capp3\Presentation\obj\Release\netcoreapp2.1\win10-x64\Presentation.csproj.CopyComplete
+C:\Code\capp3\Presentation\obj\Release\netcoreapp2.1\win10-x64\Presentation.dll
+C:\Code\capp3\Presentation\obj\Release\netcoreapp2.1\win10-x64\Presentation.pdb

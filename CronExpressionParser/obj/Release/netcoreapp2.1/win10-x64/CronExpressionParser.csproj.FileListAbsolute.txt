@@ -1,0 +1,12 @@
+C:\Code\capp3\CronExpressionParser\bin\Release\netcoreapp2.1\win10-x64\CronExpressionParser.deps.json
+C:\Code\capp3\CronExpressionParser\bin\Release\netcoreapp2.1\win10-x64\CronExpressionParser.dll
+C:\Code\capp3\CronExpressionParser\bin\Release\netcoreapp2.1\win10-x64\CronExpressionParser.pdb
+C:\Code\capp3\CronExpressionParser\bin\Release\netcoreapp2.1\win10-x64\ProjectConstants.dll
+C:\Code\capp3\CronExpressionParser\bin\Release\netcoreapp2.1\win10-x64\ProjectConstants.pdb
+C:\Code\capp3\CronExpressionParser\obj\Release\netcoreapp2.1\win10-x64\CronExpressionParser.csproj.CoreCompileInputs.cache
+C:\Code\capp3\CronExpressionParser\obj\Release\netcoreapp2.1\win10-x64\CronExpressionParser.AssemblyInfoInputs.cache
+C:\Code\capp3\CronExpressionParser\obj\Release\netcoreapp2.1\win10-x64\CronExpressionParser.AssemblyInfo.cs
+C:\Code\capp3\CronExpressionParser\obj\Release\netcoreapp2.1\win10-x64\CronExpressionParser.csproj.CopyComplete
+C:\Code\capp3\CronExpressionParser\obj\Release\netcoreapp2.1\win10-x64\CronExpressionParser.dll
+C:\Code\capp3\CronExpressionParser\obj\Release\netcoreapp2.1\win10-x64\CronExpressionParser.pdb
+C:\Code\capp3\CronExpressionParser\obj\Release\netcoreapp2.1\win10-x64\CronExpressionParser.csprojAssemblyReference.cache

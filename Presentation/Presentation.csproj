@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CronExpressionParser\CronExpressionParser.csproj" />
+    <ProjectReference Include="..\ProjectConstants\ProjectConstants.csproj" />
+    <ProjectReference Include="..\Validation\Validation.csproj" />
+  </ItemGroup>
+
+</Project>
